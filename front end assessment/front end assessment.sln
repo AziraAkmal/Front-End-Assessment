@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "front end assessment", "front end assessment\front end assessment.vbproj", "{DA00D973-FFBD-4B8B-99EC-68873A4E4587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA00D973-FFBD-4B8B-99EC-68873A4E4587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA00D973-FFBD-4B8B-99EC-68873A4E4587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA00D973-FFBD-4B8B-99EC-68873A4E4587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA00D973-FFBD-4B8B-99EC-68873A4E4587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B487A5AE-8AF3-4D15-BCF0-E657DF65712E}
+	EndGlobalSection
+EndGlobal
